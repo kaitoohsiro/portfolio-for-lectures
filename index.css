@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+.hero {
+    height: 100vh;
+    background-color: brown;
+}
+.career {
+    height: 100px;
+    background-color: #1a34a5;
+}
+.appeal {
+    height: 100px;
+    background-color: #ff6d0a;
+}
+.other {
+    height: 100px;
+    background-color: #fbffb2;
+}
+.footer {
+    height: 50px;
+    background-color: #424242;
+}
