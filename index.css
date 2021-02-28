@@ -1,23 +1,26 @@
 body {
     margin: 0;
+    text-align: center;
+    font-size: 30px;
 }
 .hero {
     height: 100vh;
-    background-color: brown;
+    background-color: #f6fcff;
 }
 .career {
     height: 100px;
-    background-color: #1a34a5;
+    background-color: #ec5553;
 }
 .appeal {
     height: 100px;
-    background-color: #ff6d0a;
+    background-color: #78f45b;
 }
 .other {
     height: 100px;
-    background-color: #fbffb2;
+    background-color: #ffffff;
 }
 .footer {
     height: 50px;
-    background-color: #424242;
+    background-color: #a0a0a0;
+
 }
