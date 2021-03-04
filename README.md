@@ -5,4 +5,4 @@
 2. githubへpush
 3. netlify登録
 4. githubとnetlifyを連携する
-5. ホスティング
+.

@@ -5,18 +5,31 @@ body {
 }
 .hero {
     height: 100vh;
-    background-color: #f6fcff;
+    background-image: url("./01.jpg");
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+    position: relative;
+}
+.hero h1 {
+    position:absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2 {
+    margin-top: 0;
 }
 .career {
-    height: 100px;
+    height: 100vh;
     background-color: #ec5553;
 }
 .appeal {
-    height: 100px;
+    height: 100vh;
     background-color: #78f45b;
 }
 .other {
-    height: 100px;
+    height: 100vh;
     background-color: #ffffff;
 }
 .footer {
